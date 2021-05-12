@@ -115,7 +115,7 @@
     "babel-plugin-syntax-dynamic-import": "6.18.0",
     "bootstrap": "4.1.2",
     "bootstrap-sass": "3.3.7",
-    "chart.js": "2.7.0",
+    "chart.js": "2.9.4",
     "classnames": "2.2.5",
     "cornerstone-core": "2.0.0",
     "cornerstone-math": "0.1.6",
