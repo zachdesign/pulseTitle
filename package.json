@@ -130,7 +130,7 @@
     "identity-obj-proxy": "3.0.0",
     "lodash": "4.17.5",
     "moment": "2.19.3",
-    "moment-timezone": "0.5.14",
+    "moment-timezone": "0.5.35",
     "prop-types": "15.6.0",
     "qs": "6.5.1",
     "rc-slider": "8.3.1",
